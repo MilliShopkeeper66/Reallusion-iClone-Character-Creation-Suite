@@ -1,0 +1,23 @@
+{
+  "repo": "reallusion-iclone-character-creation-suite",
+  "product": "Reallusion IClone Character Creation Suite",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "reallusion-iclone-character-creation",
+    "reallusion-iclone",
+    "reallusion-iclone-creation",
+    "how-to-install-reallusion-iclone",
+    "how-to-setup-reallusion-iclone",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "reallusion-character"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Reallusion IClone Character Creation Suite"
+}
